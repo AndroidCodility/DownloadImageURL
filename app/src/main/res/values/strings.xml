@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Download Image URL</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="picasso_download">Picasso Download</string>
+    <string name="permission_necessary">Permission Necessary</string>
+    <string name="external_storage_permission">External Storage Permission</string>
+    <string name="volley_download">Volley Download</string>
+</resources>
